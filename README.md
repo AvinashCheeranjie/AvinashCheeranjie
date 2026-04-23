@@ -62,12 +62,4 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashCheeranjie/AvinashCheeranjie/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashCheeranjie/AvinashCheeranjie/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AvinashCheeranjie/AvinashCheeranjie/output/pacman-contribution-graph.svg">
-</picture>
-
-###
